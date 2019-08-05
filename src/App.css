@@ -23,13 +23,6 @@
   color: #61dafb;
 }
 
-.btnstyle {
-  background-color: black;
-  color: red;
-  padding: 300;
-  font-size: 400;
-  align-items: center;
-}
 
 @keyframes App-logo-spin {
   from {
